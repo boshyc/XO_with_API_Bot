@@ -1,0 +1,51 @@
+.body-pvp{
+    background-color: beige;
+    max-width: 100%;
+    height: 80vh;
+    font-family: monaco;
+    margin: 0;
+}
+
+.button-pvp{
+    width: max-content;
+    display: inline;
+}
+
+.div-box{
+    display: block;
+}
+
+.div-50{
+    margin-top: 2.5%;
+}
+
+.turn{
+    font-size: 16px;
+}
+
+.div-body{
+    margin-bottom: 2.5%;
+}
+
+.centered {
+    font-family:dongo;
+    text-align: center;
+    display: block;
+    margin: 0;
+  }
+
+  .ending {
+    margin-top: 28vh;
+    font-size: 4em;
+  }
+
+  .main-replay{
+    font-size: 6vh;
+    margin-top: 24vh ;
+    
+  }
+
+  
+
+
+

@@ -1,0 +1,105 @@
+.body-index{
+  margin: 0;
+  text-align: center;
+  background-color: beige;
+  width:101%;
+  min-height:82vh;
+  margin-left: -1%;
+  border-radius: 15px;
+
+}
+
+.label-i{
+  margin-top:1%;
+  display: block;
+  font-size: 50px;
+}
+div button{
+  font-size: 16px;
+  border-radius: 8px;
+  border: 3px solid black;
+  padding: 5px;
+  margin: 10px;
+  width: 33%;
+  font-family: monaco;
+  transition:text-decoration 1s;
+}
+div button:hover {
+  text-decoration: underline 2px;
+}
+
+div {
+  font-family: monaco;
+  margin: 0px;
+  padding: 1vh;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+.bg-nav{
+  margin: 0;
+  padding: 10px;
+  margin-top: -1.25%;
+  margin-left: -1.25%;
+  background-color: #333;
+  width: 101%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+
+}
+
+.xo-button{
+  float: left;
+  margin: 5px;
+  border: none;
+  width: 13%;
+  transition: text-decoration 1s;
+}
+
+.xo-button:hover {
+  text-decoration: underline 2px;
+
+}
+
+.history-button {
+  float: right;
+  margin: 5px;
+  border: none;
+  width: 10%;
+  transition: text-decoration 1s;
+}
+.history-button:hover {
+  text-decoration:underline 2px
+}
+
+.save-but{
+  width: max-content;
+  padding: 2px;
+  border:2px solid black;
+}
+
+.go-button{
+  margin-bottom: 10px;
+  margin-left: 33%;
+  width: 35%;
+  display: block;
+  padding:0;
+}
+
+.button-pve{
+  border: 2.5px solid black;
+}
+
+
+
+
+
+
+
+

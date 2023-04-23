@@ -1,0 +1,14 @@
+.bg-footer {
+    font-family: monaco;
+    margin: 0;
+    text-align: center;
+    color:gray;
+    background-color: #333;
+    width: 100%;
+    max-height: max-content;
+    position: absolute;
+    left: 0%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 12px;
+}
