@@ -18,8 +18,8 @@ How users can get started with the project?
   - Download this code as .zip file.
   - Extart XO_with_API_Bot file .
   - In the folder XO_with_Bot you'll see 3 folder names 'frontend' 'backend' 'API-XO'.
-  - Access each folder via terminal and install all the packages using npm install ..
-  - For now if everything is successed you should able to run all of them using npm run dev.
+  - Access each folder via terminal and install all the packages using `npm install`
+  - For now if everything is successed you should able to run all of them using `npm run dev`.
   - Once you run all 3 folders, open the mainpage via http://localhost:3000.
   - And there it is you can now play the GAME! .
   
